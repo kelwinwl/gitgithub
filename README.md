@@ -1,8 +1,8 @@
-#Aprendendo Git
+# Aprendendo Git
 
 Aprendizado de Git e GitHub.
 
-##Documentação
+## Documentação
 
 
 
