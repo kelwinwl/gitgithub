@@ -1,7 +1,7 @@
 # Aprendendo Git
 
-Aprendizado de Git e GitHub.
-
+Aprendizado de Git e GitHub
+Teste de pull
 ## Documentação
 
 
